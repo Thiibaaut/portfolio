@@ -1,0 +1,48 @@
+body {
+    padding-top: 66px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.site-content {
+    flex: 1;
+}
+
+nav {
+    background-color: #60B4CE
+}
+
+nav ul {
+    padding-right: 20px;
+}
+
+#introduction {
+    background-color: azure;
+}
+
+#competences {
+    background-color: azure;
+}
+
+#competences h4 {
+    padding-bottom: 30px;
+}
+
+#competences div {
+    padding-bottom: 20px;
+}
+
+#certification{
+    padding-bottom: 20px;
+}
+
+#certification h4 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+footer {
+    background-color: #60B4CE;
+    padding-top: 20px;
+}
